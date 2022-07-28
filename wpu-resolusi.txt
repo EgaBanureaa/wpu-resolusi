@@ -6,3 +6,5 @@ WPU RESOLUSI
 - aaaaaaaa
 - bbbbbbb
 - cccccccc
+- dddddd
+- eeeeee
